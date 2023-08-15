@@ -26,4 +26,14 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deevanshu-k&show_icons=true&theme=radical&count_private=true" alt="deevanshu-k" /></p>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=deevanshu-k&show_icons=true&theme=radical&count_private=true" alt="deevanshu-k" /></div>
+
+---
+<h3 align="left">✍️ Random Dev Quote</h3>
+
+<img align="right" height="100" width="100" src="https://customsitesmedia.usc.edu/wp-content/uploads/sites/308/2016/10/17131545/tumblr_o7jfjpvlny1tbhzhno1_500.gif" width="930"/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
