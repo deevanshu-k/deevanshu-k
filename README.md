@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **deevanshukushwah80@gmail.com**
 
-- ⚡ Fun fact **I think I love you :)**
+- ⚡ Fun fact **I think I am mad :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
