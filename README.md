@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deevanshu Kushwah</h1>
-<h3 align="center">A passionate Programmer and a Angular developer from India</h3>
+<h3 align="center">A passionate Programmer and a Lead developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deevanshu-k&label=Profile%20views&color=0e75b6&style=flat" alt="deevanshu-k" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deevanshu-k" alt="deevanshu-k" /></a> </p>
 
-- 🌱 I’m currently working on **Angular, NodeJs** projects
+- 🌱 I’m currently working on **NestJS** projects
 
 - 👯 I’m looking to collaborate with **Startup**
 
